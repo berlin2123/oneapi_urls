@@ -1,4 +1,4 @@
-# The download Urls of offline version of Intel oneAPI
+# The download Urls of Intel oneAPI
 
 
 
