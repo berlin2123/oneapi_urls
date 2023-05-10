@@ -51,3 +51,27 @@ https://registrationcenter-download.intel.com/akdlm/IRC_NAS/176aff1f-4922-4bd1-9
 ##### 2022
 waiting for your contribution
 
+
+
+## Intel oneAPI IoT Toolkit
+
+##### 2023
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/176aff1f-4922-4bd1-90ef-e4ab66fe76a0/l_pythoni39_oneapi_p_2023.1.0.46399_offline.sh
+```
+
+##### 2022
+waiting for your contribution
+
+
+
+## Intel oneAPI Rendering Toolkit
+
+##### 2023
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/176aff1f-4922-4bd1-90ef-e4ab66fe76a0/l_pythoni39_oneapi_p_2023.1.0.46399_offline.sh
+```
+
+##### 2022
+waiting for your contribution
+
