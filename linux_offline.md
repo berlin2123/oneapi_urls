@@ -57,7 +57,7 @@ waiting for your contribution
 
 ##### 2023
 ```
-https://registrationcenter-download.intel.com/akdlm/IRC_NAS/176aff1f-4922-4bd1-90ef-e4ab66fe76a0/l_pythoni39_oneapi_p_2023.1.0.46399_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/c1cb379a-6aab-4f18-a8c9-611ca8905ef8/l_IoTKit_p_2023.1.0.46344_offline.sh
 ```
 
 ##### 2022
@@ -69,7 +69,8 @@ waiting for your contribution
 
 ##### 2023
 ```
-https://registrationcenter-download.intel.com/akdlm/IRC_NAS/176aff1f-4922-4bd1-90ef-e4ab66fe76a0/l_pythoni39_oneapi_p_2023.1.0.46399_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/28e9a4da-6142-4567-8d72-c0c326d2efd7/l_RenderKit_p_2023.1.1.18_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/79e1d29b-1546-4795-b2a4-ae5f8d504df2/l_RenderKit_p_2023.1.0.47259_offline.sh
 ```
 
 ##### 2022
