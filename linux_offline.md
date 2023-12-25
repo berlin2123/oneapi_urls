@@ -4,6 +4,11 @@
 
 ## Intel oneAPI Base Toolkit 
 
+##### 2024
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/163da6e4-56eb-4948-aba3-debcec61c064/l_BaseKit_p_2024.0.1.46_offline.sh
+```
+
 ##### 2023
 ```
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/992857b9-624c-45de-9701-f6445d845359/l_BaseKit_p_2023.2.0.49397_offline.sh
@@ -19,6 +24,11 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18487/l_BaseKit_p_20
 
 ## Intel oneAPI HPC Toolkit 
 
+##### 2024
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/1b2baedd-a757-4a79-8abb-a5bf15adae9a/l_HPCKit_p_2024.0.0.49589_offline.sh
+```
+
 ##### 2023
 ```
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/0722521a-34b5-4c41-af3f-d5d14e88248d/l_HPCKit_p_2023.2.0.49440_offline.sh
@@ -33,6 +43,11 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18479/l_HPCKit_p_202
 
 ## Intel AI Analytics Toolkit
 
+##### 2024
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/eb21f0d0-bb7a-44b3-84d1-6489b0138b2e-2/l_AITools.2024.0.2.1.sh
+```
+
 ##### 2023
 ```
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/ef4efa4d-9b83-4994-a122-d5a4d2dec84c/l_AIKit_p_2023.1.1.48862_offline.sh
@@ -44,6 +59,11 @@ waiting for your contribution
 
 
 ## Intel Distribution for Python*
+
+##### 2024
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/f649c85f-f6e1-4f13-b8c1-b75ec1a9ccb9/intelpython3-2024.0.0_251-Linux-x86_64.sh
+```
 
 ##### 2023
 ```
@@ -70,6 +90,11 @@ waiting for your contribution
 
 
 ## Intel oneAPI Rendering Toolkit
+
+##### 2024
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/18e978f0-5a80-4006-bf34-207f205b8f4f/l_RenderKit_p_2024.0.0.49659_offline.sh
+```
 
 ##### 2023
 ```
