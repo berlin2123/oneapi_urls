@@ -6,6 +6,7 @@
 
 ##### 2024
 ```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/e6ff8e9c-ee28-47fb-abd7-5c524c983e1c/l_BaseKit_p_2024.2.1.100_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/9a98af19-1c68-46ce-9fdd-e249240c7c42/l_BaseKit_p_2024.2.0.634_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/fdc7a2bc-b7a8-47eb-8876-de6201297144/l_BaseKit_p_2024.1.0.596_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/163da6e4-56eb-4948-aba3-debcec61c064/l_BaseKit_p_2024.0.1.46_offline.sh
@@ -28,6 +29,7 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18487/l_BaseKit_p_20
 
 ##### 2024
 ```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/d461a695-6481-426f-a22f-b5644cd1fa8b/l_HPCKit_p_2024.2.1.79_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/d4e49548-1492-45c9-b678-8268cb0f1b05/l_HPCKit_p_2024.2.0.635_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/7f096850-dc7b-4c35-90b5-36c12abd9eaa/l_HPCKit_p_2024.1.0.560_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/1b2baedd-a757-4a79-8abb-a5bf15adae9a/l_HPCKit_p_2024.0.0.49589_offline.sh
@@ -49,6 +51,7 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18479/l_HPCKit_p_202
 
 ##### 2024
 ```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/f27e9e0e-ec27-4024-a4bf-b30c48c99564/l_AITools.2024.2.0.156.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/0414ef18-5b64-47f2-9b2e-ae94860272b9/l_AITools.2024.1.0.9.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/eb21f0d0-bb7a-44b3-84d1-6489b0138b2e-2/l_AITools.2024.0.2.1.sh
 ```
