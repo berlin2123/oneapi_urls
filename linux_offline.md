@@ -4,6 +4,11 @@
 
 ## Intel oneAPI Base Toolkit 
 
+##### 2025
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/96aa5993-5b22-4a9b-91ab-da679f422594/intel-oneapi-base-toolkit-2025.0.0.885_offline.sh
+```
+
 ##### 2024
 ```
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/e6ff8e9c-ee28-47fb-abd7-5c524c983e1c/l_BaseKit_p_2024.2.1.100_offline.sh
@@ -26,6 +31,11 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18487/l_BaseKit_p_20
 
 
 ## Intel oneAPI HPC Toolkit 
+
+##### 2025
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/0884ef13-20f3-41d3-baa2-362fc31de8eb/intel-oneapi-hpc-toolkit-2025.0.0.825_offline.sh
+```
 
 ##### 2024
 ```
