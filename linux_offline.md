@@ -6,6 +6,10 @@
 
 ##### 2025
 ```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/4a5320d1-0b48-458d-9668-fd0e4501208c/intel-oneapi-base-toolkit-2025.1.3.7_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/ac050ae7-da93-4108-823d-4334de3f4ee8/intel-oneapi-base-toolkit-2025.1.2.9_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/6bfca885-4156-491e-849b-1cd7da9cc760/intel-oneapi-base-toolkit-2025.1.1.36_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/cca951e1-31e7-485e-b300-fe7627cb8c08/intel-oneapi-base-toolkit-2025.1.0.651_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/dfc4a434-838c-4450-a6fe-2fa903b75aa7/intel-oneapi-base-toolkit-2025.0.1.46_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/96aa5993-5b22-4a9b-91ab-da679f422594/intel-oneapi-base-toolkit-2025.0.0.885_offline.sh
 ```
@@ -35,6 +39,10 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18487/l_BaseKit_p_20
 
 ##### 2025
 ```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/0ed71121-bd80-4ba7-ab54-805138bf06a7/intel-oneapi-hpc-toolkit-2025.1.3.10_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/27e04429-fb6f-4b1c-bc04-00db3b1b3982/intel-oneapi-hpc-toolkit-2025.1.2.11_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/2cf9c083-82b5-4a8f-a515-c599b09dcefc/intel-oneapi-hpc-toolkit-2025.1.1.40_offline.sh
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/d0df6732-bf5c-493b-a484-6094bea53787/intel-oneapi-hpc-toolkit-2025.1.0.666_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/b7f71cf2-8157-4393-abae-8cea815509f7/intel-oneapi-hpc-toolkit-2025.0.1.47_offline.sh
 https://registrationcenter-download.intel.com/akdlm/IRC_NAS/0884ef13-20f3-41d3-baa2-362fc31de8eb/intel-oneapi-hpc-toolkit-2025.0.0.825_offline.sh
 ```
@@ -60,6 +68,11 @@ https://registrationcenter-download.intel.com/akdlm/irc_nas/18479/l_HPCKit_p_202
 
 
 ## Intel AI Analytics Toolkit
+
+##### 2025
+```
+https://registrationcenter-download.intel.com/akdlm/IRC_NAS/491d5c2a-67fe-48d0-884f-6aecd88f5d8a/ai-tools-2025.0.0.75_offline.sh
+```
 
 ##### 2024
 ```
